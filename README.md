@@ -1,1 +1,1 @@
-# You can see everything in the folder
+# You can see everything in the "src" folder 
