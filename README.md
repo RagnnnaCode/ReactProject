@@ -1,1 +1,1 @@
-# You can see everything in the "src" folder 
+# You can see JSX components in the "src" folder 
