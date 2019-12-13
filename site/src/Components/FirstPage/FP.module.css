@@ -1,0 +1,12 @@
+.wrapper{
+    display: grid;
+    width: 1600px;
+    height: 1000px;
+    margin: 0 auto;
+    
+    background-image: url("https://i.imgur.com/iQpAk4G.png");
+    background-repeat: no-repeat;
+}
+.all{
+    background-color: #a9916d;
+}
