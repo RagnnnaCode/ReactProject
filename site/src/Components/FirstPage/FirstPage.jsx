@@ -5,9 +5,8 @@ const FirstPage = (props) => {
     return(
         <div>
             <div className={style.all}>
-            <div className={style.wrapper}>
-
-            </div>
+                <img src="https://i.imgur.com/iQpAk4G.png" alt="" />
+               
             </div>
         </div>
     )
