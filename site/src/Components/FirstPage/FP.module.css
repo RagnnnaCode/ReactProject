@@ -13,6 +13,7 @@
     height: 75px;
     position: relative;
     left:865px;
+    top: 30px;
 }
 
 .NavBar ul{
@@ -23,14 +24,22 @@
     color: white;
     font-weight: bold;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 14px;
+    
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    
+}
+.NavBar ul li:hover{
+    background-color: #74c7d5;
 } 
 .NavBar ul li{
     padding: 60px 25px 15px 25px;
     display: inline;
     color: white;
-    font-weight: bold;
+    font-weight: 300;
     text-decoration: none;
+    border-radius: 0px 0px 5px 5px;
+    transition: background-color 0.25s;
 } 
 
 body{

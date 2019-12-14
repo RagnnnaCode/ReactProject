@@ -1,6 +1,6 @@
 import React from 'react';
 import style from './FP.module.css'
-import {NavLink} from 'react-router-dom';
+import {Link} from 'react-router-dom';
 
 const FirstPage = (props) => {
     return(
@@ -8,11 +8,11 @@ const FirstPage = (props) => {
             <div className={style.all}>
                 <div className={style.NavBar}>
                     <ul className="list1" >
-                        <li><NavLink to="/Home">Home</NavLink></li>
-                        <li>Services</li>
-                        <li>About</li>
-                        <li>Work</li>
-                        <li>Contacts</li>
+                        <li><Link to="/">Home</Link></li>
+                        <li><Link to="/Services">Services</Link></li>
+                        <li><Link to="/About">About</Link></li>
+                        <li><Link to="/Work">Work</Link></li>
+                        <li><Link to="/Contacts">Contacts</Link></li>
                     </ul>
                 </div>
             </div>
