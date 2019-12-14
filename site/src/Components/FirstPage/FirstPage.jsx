@@ -11,16 +11,18 @@ const FirstPage = () => {
     return(
         <div className={style.wrapper}>
             <div className={style.all}>
+                
                 <div className={style.NavBar}>
                     <ul className="list1" >
-                        <li><Link to="/">Home</Link></li>
+                        <li className={style.listcomp1}><Link to="/">Home</Link></li>
                         <li><Link to="/Services">Services</Link></li>
                         <li><Link to="/About">About</Link></li>
                         <li><Link to="/Work">Work</Link></li>
                         <li><Link to="/Contacts">Contacts</Link></li>
                     </ul>
                 </div>
-                <div className={m} data-wow-delay="0.25s" data-wow-duration="2.5s">
+                
+                <div className={m} data-wow-delay="0.45s" data-wow-duration="2.5s">
                     <div className={style.preview}  >
                         <div className={style.previewFirst}>
                             <p>good ideas</p>
