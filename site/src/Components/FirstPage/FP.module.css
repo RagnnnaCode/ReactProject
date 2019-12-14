@@ -63,8 +63,8 @@ body{
 }
 
 .preview{
-    height: 300px;
-    width: 1045px;
+    height: 250px;
+    width: 995px;
     border-radius: 5px;
     background-color: rgba(233, 236, 235, 0.4);
     position: relative;
@@ -75,12 +75,14 @@ body{
     
 }
 .previewFirst{
+    position: relative;
     color: #49bdd1;
     font-size: 85px;
     line-height: 15%;
     padding: 0;
     margin: 0;
     text-align: right;
+    left: 30px;
     
 }
 .previewSecond{
@@ -92,6 +94,7 @@ body{
     font-size: 115px;
     line-height: 0%;
     bottom: 20px;
+    left: 70px;
 }
 .previewFirst p:first-child{
     text-transform: uppercase;
