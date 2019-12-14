@@ -1,0 +1,70 @@
+.wrapperS{
+    height: 1000px;
+    width: 1920px;
+    background-repeat:no-repeat;
+    background-size:1920px;
+    background-image: url("https://i.imgur.com/g6e3WEw.png");
+    padding: 0;
+    margin: 0;
+    box-shadow: none;
+    position: relative;
+    bottom: 17px;
+}
+.NavBar{
+    width: 535px;
+    height: 75px;
+    position: relative;
+    left:1065px;
+    top: 50px;
+}
+
+.NavBar ul{
+    list-style: none;
+
+}
+.NavBar ul li a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.45s;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    position: relative;
+    bottom: 4px;
+    
+}
+.listcomp2{
+    background-color: #df5c64;
+    
+} 
+
+
+.NavBar ul li a:hover{
+    color: gray;
+}
+.NavBar ul li{
+    padding: 50px 25px 13px 25px;
+    display: inline;
+    color: white;
+    font-weight: 300;
+    text-decoration: none;
+    border-radius: 0px 0px 5px 5px;
+    
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    overflow-x:hidden;
+    overflow-y:hidden;
+}
+
+.acrostia{
+    position: relative;
+    width: 160px;
+    height: 65px;
+    color: white;
+    font-size: 250%;
+    left:245px;
+    bottom: 100px;
+}

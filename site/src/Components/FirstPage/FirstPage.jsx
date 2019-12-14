@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react';
+import React from 'react';
 import style from './FP.module.css'
 import {Link} from 'react-router-dom';
 import WOW from 'wowjs';
