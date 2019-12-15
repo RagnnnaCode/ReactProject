@@ -1,0 +1,189 @@
+.wrapperS{
+    height: 1000px;
+    width: 1920px;
+    background-repeat:no-repeat;
+    background-size:1920px;
+    background-image: url("https://i.imgur.com/SpDBAwY.png");
+    padding: 0;
+    margin: 0;
+    box-shadow: none;
+    position: relative;
+    bottom: 17px;
+}
+.NavBar{
+    width: 535px;
+    height: 75px;
+    position: relative;
+    left:1065px;
+    top: 50px;
+}
+
+.NavBar ul{
+    list-style: none;
+
+}
+.NavBar ul li a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.45s;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    position: relative;
+    bottom: 4px;
+    
+}
+.listcomp3{
+    background-color: #91778e;
+    
+} 
+
+
+.NavBar ul li a:hover{
+    color: gray;
+}
+.NavBar ul li{
+    padding: 50px 25px 13px 25px;
+    display: inline;
+    color: white;
+    font-weight: 300;
+    text-decoration: none;
+    border-radius: 0px 0px 5px 5px;
+    
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    overflow-x:hidden;
+    overflow-y:hidden;
+}
+
+.acrostia{
+    position: relative;
+    width: 160px;
+    height: 65px;
+    color: white;
+    font-size: 250%;
+    left:245px;
+    bottom: 100px;
+}
+
+.aboutService{
+    text-align: center;
+    width: 1100px;
+    height: 180px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 50px;
+}
+.aboutService p:first-child{
+    color:white;
+    font-size: 40pt;
+}
+.aboutService p:nth-child(2){
+    color:white;
+    font-size: 10pt;   
+}
+.aboutService p:nth-child(3){
+    color: white;
+    font-size: 10pt;
+}
+
+.aboutService p:first-child{
+    text-transform: uppercase;
+    
+}
+
+
+.imageService{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 1150px;
+    height: 400px;
+    margin: 0 auto;
+    position: relative;
+    top: 115px;
+    grid-column-gap: 20px;
+}
+.imgS{
+    width: 260px;
+    height: 400px;
+    background-color: rgba(94, 77, 92, 0.7);
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 7px;
+    bottom: 30px;
+    border-radius: 5px;
+    
+}
+.imgS2{
+    width: 260px;
+    height: 400px;
+    background-color: rgba(84, 69, 82, 0.9);
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 7px;
+    bottom: 30px;
+    border-radius: 5px;
+    
+}
+.borderF{
+    background-color: #a1859e;
+    width: 165px;
+    height: 165px;
+    border-radius: 50%;
+    position: relative;
+    left: 47px;
+    top: 45px;
+}
+.borderF2{
+    background-color: #df5c64;
+    width: 165px;
+    height: 165px;
+    border-radius: 50%;
+    position: relative;
+    left: 47px;
+    top: 45px;
+}
+.circleF{
+    width: 155px;
+    height: 155px;
+    border-radius: 50%;
+    background-color: white;
+    position: relative;
+    left: 5px;
+    top: 5px;
+    color:white;
+}
+.circleF img{
+    position: relative;
+    top: 3px;
+}
+.textA{
+    height: 160px;
+    width: 213px;
+    line-height: 14%;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    right: 30px;
+}
+.textA p:first-child{
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    font-size: 20pt;
+}
+.textA p:last-child span{
+    color: #ff8973;
+ }
+ 
+
+.textA p:last-child{
+   color: #91ad68;
+}
+
+
+
