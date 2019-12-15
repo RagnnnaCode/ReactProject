@@ -36,6 +36,20 @@ const About = (props) => {
                             <div className={style.textA}>
                                 <p>Researching</p>
                                 <p>General manager</p>
+                                <div className={style.imgLinkBlock}>
+                                    <div className={style.imgLink}>
+                                    <a href="https://www.facebook.com/" target="_blank"><img src="https://i.imgur.com/b73Osuz.png" alt=""/></a>   
+                                    </div>
+                                    <div className={style.imgLink}>
+                                    <a href="https://twitter.com/" target="_blank"><img src="https://i.imgur.com/huAJQaB.png" alt=""/></a>
+                                    </div>
+                                    <div className={style.imgLink}>
+                                    <a href="https://plus.google.com/" target="_blank"><img src="https://i.imgur.com/Xd7MvZa.png" alt=""/></a>
+                                    </div>
+                                    <div className={style.imgLink}>
+                                    <a href="https://www.linkedin.com/" target="_blank"><img src="https://i.imgur.com/zofda9a.png" alt=""/></a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -47,6 +61,20 @@ const About = (props) => {
                             <div className={style.textA}>
                                 <p>DESIGN</p>
                                 <p><span>Design Master</span></p>
+                                <div className={style.imgLinkBlock}>
+                                    <div className={style.imgLink1}>
+                                    <a href="https://www.facebook.com/" target="_blank"><img src="https://i.imgur.com/b73Osuz.png" alt=""/></a>   
+                                    </div>
+                                    <div className={style.imgLink2}>
+                                    <a href="https://twitter.com/" target="_blank"><img src="https://i.imgur.com/huAJQaB.png" alt=""/></a>
+                                    </div>
+                                    <div className={style.imgLink3}>
+                                    <a href="https://plus.google.com/" target="_blank"><img src="https://i.imgur.com/Xd7MvZa.png" alt=""/></a>
+                                    </div>
+                                    <div className={style.imgLink4}>
+                                    <a href="https://www.linkedin.com/" target="_blank"><img src="https://i.imgur.com/zofda9a.png" alt=""/></a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -58,6 +86,20 @@ const About = (props) => {
                             <div className={style.textA}>
                                 <p>Development</p>
                                 <p>Developer ninja</p>
+                                <div className={style.imgLinkBlock}>
+                                    <div className={style.imgLink}>
+                                    <a href="https://www.facebook.com/" target="_blank"><img src="https://i.imgur.com/b73Osuz.png" alt=""/></a>   
+                                    </div>
+                                    <div className={style.imgLink}>
+                                    <a href="https://twitter.com/" target="_blank"><img src="https://i.imgur.com/huAJQaB.png" alt=""/></a>
+                                    </div>
+                                    <div className={style.imgLink}>
+                                    <a href="https://plus.google.com/" target="_blank"><img src="https://i.imgur.com/Xd7MvZa.png" alt=""/></a>
+                                    </div>
+                                    <div className={style.imgLink}>
+                                    <a href="https://www.linkedin.com/" target="_blank"><img src="https://i.imgur.com/zofda9a.png" alt=""/></a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -69,6 +111,20 @@ const About = (props) => {
                             <div className={style.textA}>
                                 <p>launch</p>
                                 <p>SEO guru</p>
+                                <div className={style.imgLinkBlock}>
+                                    <div className={style.imgLink}>
+                                    <a href="https://www.facebook.com/" target="_blank"><img src="https://i.imgur.com/b73Osuz.png" alt=""/></a>   
+                                    </div>
+                                    <div className={style.imgLink}>
+                                    <a href="https://twitter.com/" target="_blank"><img src="https://i.imgur.com/huAJQaB.png" alt=""/></a>
+                                    </div>
+                                    <div className={style.imgLink}>
+                                    <a href="https://plus.google.com/" target="_blank"><img src="https://i.imgur.com/Xd7MvZa.png" alt=""/></a>
+                                    </div>
+                                    <div className={style.imgLink}>
+                                    <a href="https://www.linkedin.com/" target="_blank"><img src="https://i.imgur.com/zofda9a.png" alt=""/></a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
