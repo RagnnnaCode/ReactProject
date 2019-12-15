@@ -1,0 +1,171 @@
+.wrapperS{
+    height: 1000px;
+    width: 1920px;
+    background-repeat:no-repeat;
+    background-size:1920px;
+    background-image: url("https://i.imgur.com/zzqDMBw.png");
+    padding: 0;
+    margin: 0;
+    box-shadow: none;
+    position: relative;
+    bottom: 17px;
+    
+}
+.NavBar{
+    width: 535px;
+    height: 75px;
+    position: relative;
+    left:1065px;
+    top: 50px;
+}
+
+.NavBar ul{
+    list-style: none;
+
+}
+.NavBar ul li a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.45s;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    position: relative;
+    bottom: 4px;
+    
+}
+.listcomp4{
+    background-color: #a1ca6c;
+    
+} 
+
+
+.NavBar ul li a:hover{
+    color: gray;
+}
+.NavBar ul li{
+    padding: 50px 25px 13px 25px;
+    display: inline;
+    color: white;
+    font-weight: 300;
+    text-decoration: none;
+    border-radius: 0px 0px 5px 5px;
+    
+}
+
+body{
+    padding: 0;
+    margin: 0;  
+   
+    
+}
+
+.acrostia{
+    position: relative;
+    width: 160px;
+    height: 65px;
+    color: white;
+    font-size: 250%;
+    left:245px;
+    bottom: 100px;
+}
+
+.aboutService{
+    text-align: center;
+    width: 1100px;
+    height: 180px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 30px;
+}
+.aboutService p:first-child{
+    color:white;
+    font-size: 50pt;
+    font-weight: 500;
+    position: relative;
+    top: 50px;
+}
+.aboutService p:nth-child(2){
+    color:white;
+    font-size: 10pt;   
+}
+.aboutService p:nth-child(3){
+    color: white;
+    font-size: 10pt;
+}
+
+.aboutService p:first-child{
+    text-transform: uppercase;
+    
+}
+.Portfolio{
+    border-top:2px solid #94b963;
+    border-bottom:2px solid #94b963;
+    width: 1080px;
+    height: 110px;
+    margin: 0 auto;
+    position: relative;
+    top: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.PortfolioBlock1{
+    text-transform: uppercase;
+    color: white;
+    font-size:20pt;
+    font-weight: 500;
+    position: relative;
+    right: 160px;
+    top:10px;
+}
+.PortfolioBlock2 ul{
+    list-style: none;
+    display: inline;
+}
+.PortfolioBlock2 ul li{
+    padding: 8px 30px 8px 30px;
+    position: relative;
+    top: 40px;
+    display: inline;
+    color: white;
+    font-weight: 300;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 100%;
+    font-weight: 500;
+}
+.li2{
+    background-color: #f5c149;
+}
+.listPortfolio{
+    width: 580px;
+    height: 50px;
+}
+
+.imagesView{
+    width: 1000px;
+    height: 300px;
+    margin: 0 auto;
+    position: absolute;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    
+    bottom: 310px;
+    left: 460px;
+}
+.save{
+    position: relative;
+    bottom: 160px;
+}
+
+.imgBlockD img{
+    width: 220px;
+    height: 220px;
+    padding: 0;
+}
+.imgBlockD p{
+    position: relative;
+    color:#9b9b9b;
+    top: 225px;
+}
